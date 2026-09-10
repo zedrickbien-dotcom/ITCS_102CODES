@@ -14,3 +14,7 @@ two_sukli = five_sukli % 200
 
 one_h = two_sukli // 100
 one_sukli = two_sukli % 100
+print("1000 - ", libo)
+print("500 - ", five_h)
+print("200 - ", two_h)
+print("100 - ", one_h)
